@@ -9,4 +9,3 @@ Before you can start using the script, you must obatin a api key from pixabay.co
 2. Store this file onto the same directory as the script. 
 3. Run the script using the terminal
 
-A zip file is created which you can use to upload the flash cards onto the 
