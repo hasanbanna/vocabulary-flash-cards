@@ -6,7 +6,7 @@ import os
 if not os.path.exists('images'):
     os.makedirs('images')
 
-API_KEY = '6102150-5ea971838fc8caa06e2afab2d';
+API_KEY = 'insert-api-key-here';
 
 
 english_words = open("english-words.txt",'r')
