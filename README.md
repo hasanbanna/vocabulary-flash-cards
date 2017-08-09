@@ -4,6 +4,14 @@ A python script which creates vocabulary flash cards for Anki. Currently, the tr
 
 Tested on Mac only.
 
+## Libraries used
+
+You will need the following libraries:
+* mtranslate [link](https://pypi.python.org/pypi?:action=display&name=mtranslate&version=1.3)
+* requests [link](http://docs.python-requests.org/en/master/)
+
+To get these libraries easily, install pip. On Mac, type `sudo easy_install pip` inside the terminal. Then, type `sudo pip install mtranslate && pip install requests`
+
 ## How to use
 
 Before you can use the script, you need to get the API key from pixabay which you can get by signing up [here](https://pixabay.com/). It is used to search for images related to the word.
