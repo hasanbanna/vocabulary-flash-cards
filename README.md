@@ -1,6 +1,8 @@
 # Vocabulary Flashcard Generator for Anki
 
-A python script which creates vocabulary flash cards for Anki. Currently, only tested on Macs.
+A python script which creates vocabulary flash cards for Anki. Currently, the translation only works for French but will add the other languages soon. 
+
+Tested on Mac only.
 
 ## How to use
 
