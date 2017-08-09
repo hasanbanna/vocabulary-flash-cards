@@ -10,7 +10,7 @@ You also need to know the absolute path to your Anki collection.media so the ima
 
 `Users/{mac_username}/Library/Application\ Support/Anki2/{anki_username}/collection.media`
 
-*notice you have to escape the space with a  ' \ ' between Application and Support when copying the address in the terminal on Mac.*
+*notice you have to escape the space with a  ` \ ` between Application and Support when copying the address in the terminal on Mac.*
 
 
 Copy the api key and the path to the config.py file make sure they are inside quotes.
@@ -22,8 +22,7 @@ API_KEY =  "ADD_API_KEY_HERE"
 USER_COLLECTION_MEDIA_PATH = "COPY_PATH_HERE"
 ```
 
-1. Create a text file which contain english words
-	**make sure to put one word per line*.
+1. Create a text file which contain english words - *make sure to put one word per line*.
 	```
 	cat
 	dog
